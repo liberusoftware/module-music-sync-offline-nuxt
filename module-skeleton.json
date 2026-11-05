@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-sync-offline-nuxt",
+  "capabilityKey": "liberusoftware/music-sync-offline",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-music-sync-offline-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/music/nextjs/sync-offline.md",
+  "presentationPlan": "projects/music/nuxt/sync-offline.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
